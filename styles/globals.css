@@ -28,7 +28,7 @@ a {
 .navbar-container {
   display: flex;
   justify-content: space-between;
-  margin: 6px 18px;
+  margin: auto;
   position: relative;
 }
 .marquee-text {

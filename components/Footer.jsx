@@ -7,6 +7,7 @@ const Footer = () => {
       <p>2022 Trotter's Webshop All rights reserved</p>
       <p className="icons">
         <AiFillInstagram />
+
         <AiOutlineTwitter />
       </p>
     </div>
